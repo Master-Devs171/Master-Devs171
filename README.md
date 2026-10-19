@@ -1,5 +1,5 @@
 <a href="https://discord.gg/hMYDp6YfXy">
-  <img src="assets/banner.svg" alt="Master Store — A nossa comunidade está no Discord" width="100%" />
+  <img src="assets/master-store-banner.svg" alt="Master Store — A nossa comunidade está no Discord" width="100%" />
 </a>
 
 <div align="center">
