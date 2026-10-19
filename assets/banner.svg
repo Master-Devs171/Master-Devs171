@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Master171 — Jogos, criatividade e código</title><desc id="desc">Banner azul escuro com detalhes em azul e violeta e um comando de jogos.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1328"/><stop offset="1" stop-color="#172a49"/></linearGradient><linearGradient id="accent"><stop stop-color="#55e3ed"/><stop offset="1" stop-color="#b49cff"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#3d5c81" stroke-opacity=".18"/></pattern></defs>
+<rect width="1280" height="340" rx="24" fill="url(#bg)"/><rect width="1280" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="1160" cy="35" r="230" fill="#8060d9" opacity=".07"/><circle cx="1030" cy="300" r="210" fill="#45cde1" opacity=".06"/>
+<rect x="68" y="64" width="9" height="210" rx="4" fill="url(#accent)"/>
+<text x="104" y="95" fill="#80cadb" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">MASTER-DEVS171 / GITHUB</text>
+<text x="100" y="174" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Master171<tspan fill="#71e5ee">.</tspan></text>
+<text x="104" y="220" fill="#c4d3e6" font-family="Arial,sans-serif" font-size="27">Jogos, criatividade e código.</text>
+<text x="104" y="265" fill="#829cba" font-family="Arial,sans-serif" font-size="16">JAVASCRIPT  ·  HTML  ·  CSS</text>
+<g transform="translate(925 120) rotate(-8)"><path d="M-28 17Q-14-15 22-15H104Q140-15 154 17L177 104Q181 129 160 133Q145 137 126 110L109 90H17L-2 112Q-19 137-36 132Q-55 126-51 104Z" fill="#172b46" stroke="url(#accent)" stroke-width="5"/><path d="M-3 38H33M15 20V56" stroke="#62d9e7" stroke-width="11" stroke-linecap="round"/><circle cx="119" cy="28" r="9" fill="#af9cff"/><circle cx="143" cy="49" r="9" fill="#5ed7e4"/><path d="M56 64H72" stroke="#6e89a9" stroke-width="5" stroke-linecap="round"/></g>
+<path d="M865 64l-12 12 12 12M1174 238l12 12-12 12" fill="none" stroke="#8a9dca" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+</svg>
