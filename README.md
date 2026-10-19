@@ -1,38 +1,41 @@
-![Master171 — Jogos, criatividade e código](assets/banner.svg)
-
-# Olá, sou o Master171 👋
-
-Crio jogos e experiências para a web, com atenção ao visual, à personalização e à diversão. Este é o meu espaço para partilhar o que estou a construir e aprender pelo caminho.
-
-**JavaScript** · **HTML** · **CSS** · **Canvas** · **GitHub Pages**
-
-## 🐍 Projeto em destaque
-
-<a href="https://master-devs171.github.io/cobrinhas-do-jardim/">
-  <img src="https://raw.githubusercontent.com/Master-Devs171/cobrinhas-do-jardim/main/cover.jpg" alt="Cobrinhas do Jardim: cobrinhas coloridas e frutas num mundo azul" width="700" />
+<a href="https://discord.gg/hMYDp6YfXy">
+  <img src="assets/banner.svg" alt="Master Store — A nossa comunidade está no Discord" width="100%" />
 </a>
 
-### Cobrinhas do Jardim
+<div align="center">
 
-Um jogo de cobrinhas para crianças: apanha frutas, cresce, explora a arena e cria uma personagem à tua maneira.
+# Bem-vindo à Master Store 👑
 
-- 🎨 Oficina com cores, caras, acessórios e bandeiras.
-- 🧲 Ajudas temporárias, crescimento e câmara progressiva.
-- 🌼 Aventuras, autocolantes e skins para descobrir.
-- 📱 Controlos para computador e telemóvel.
+**A comunidade da Master Store está no Discord.**
 
-**[▶ Jogar agora](https://master-devs171.github.io/cobrinhas-do-jardim/)** · **[Ver o código](https://github.com/Master-Devs171/cobrinhas-do-jardim)**
+Entra para conhecer a loja, acompanhar as novidades e falar connosco.
 
-## 🌱 Comunidade
+### [💬 ENTRAR NO DISCORD →](https://discord.gg/hMYDp6YfXy)
 
-Estou a contribuir com o **Cobrinhas do Jardim** para o [DinoPlay](https://github.com/Rjcferreira/dino-color-quiz), projeto de **Rjcferreira**. A contribuição inclui o jogo, a capa e a integração com a biblioteca da app.
+`discord.gg/hMYDp6YfXy`
 
-[Consultar o pedido de comunidade →](https://github.com/Rjcferreira/dino-color-quiz/pull/1) — aguarda revisão.
-
-## 🛠️ O que estou a explorar
-
-Jogos em Canvas, interfaces adaptadas a diferentes ecrãs, animações e personalização de personagens.
+</div>
 
 ---
 
-Tens uma ideia ou encontraste algo a melhorar? [Abre uma issue no projeto](https://github.com/Master-Devs171/cobrinhas-do-jardim/issues).
+## A Master Store
+
+Este perfil é a apresentação da **Master Store** no GitHub. O nosso ponto de encontro é o Discord: é por lá que podes conhecer a comunidade e entrar em contacto.
+
+| 👥 Comunidade | 📢 Novidades | 💬 Contacto |
+| :---: | :---: | :---: |
+| Conhece a Master Store | Acompanha o que estamos a preparar | Fala connosco pelo Discord |
+
+## Liga-te à comunidade
+
+**[Discord oficial da Master Store](https://discord.gg/hMYDp6YfXy)**
+
+Usa o convite acima para entrares na comunidade.
+
+---
+
+<div align="center">
+
+**MASTER STORE** · [Discord](https://discord.gg/hMYDp6YfXy) · [GitHub](https://github.com/Master-Devs171)
+
+</div>
